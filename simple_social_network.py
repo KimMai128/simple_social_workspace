@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class Person:
     """ A person in the social network.
     
@@ -12,4 +11,3 @@ class Person:
         self.name = name
         self.connection = set()
 
->>>>>>> refs/remotes/origin/main
