@@ -7,7 +7,7 @@ class Person:
             who know this person.
     """
     def __init__(self, name):
-        """ Initialize a new Person objet."""
+        """ Initialize a new Person object."""
         self.name = name
         self.connection = set()
 
